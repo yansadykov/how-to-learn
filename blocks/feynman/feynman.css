@@ -1,9 +1,8 @@
-
 .feynman {
-	background: url("../../../images/feynman.png") 867px no-repeat;
-	background-color: #f2f2f2;
-	height: 790px;
-	padding-top: 80px;
-	position: relative;
-	background-position: bottom left;
+  background: url("./../../images/feynman.png") 867px no-repeat;
+  background-color: #f2f2f2;
+  min-height: 790px;
+  padding-top: 80px;
+  position: relative;
+  background-position: bottom left;
 }
